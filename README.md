@@ -46,5 +46,6 @@ Ce projet est une démonstration pédagogique des composants **Android Jetpack**
 - `CounterViewModel.java` : La logique métier et le stockage de l'état.
 - `activity_main.xml` : Le layout utilisant un `LinearLayout` vertical simple.
 
----
-*Développé pour l'apprentissage des bonnes pratiques Android 2026.*
+
+[Screen_recording_20260508_162524.webm](https://github.com/user-attachments/assets/c63b338c-4152-470d-b722-69f1f3e872b6)
+
